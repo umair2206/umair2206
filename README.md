@@ -1,4 +1,4 @@
-![alt text](./images/bh1.png)
+![alt text](./bh1.png)
 
 I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
