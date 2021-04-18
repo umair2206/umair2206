@@ -1,4 +1,4 @@
-![alt text](./bh1.png)
+![alt text](./z60794dcf63a81.gif)
 
 I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-![alt text](./images/bottom.svg)
+![alt text](./bottom.svg)
