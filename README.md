@@ -2,7 +2,7 @@
 
 I am a Full Stack Web Developer. I am currently pursuing my engineering course. 
 
-⚡ Fun fact:
+
 - 👯 I’m looking to collaborate on projects.
 - 🌱 I’m currently doing internships.
 
