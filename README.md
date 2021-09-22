@@ -3,7 +3,7 @@
 I am a Full Stack Web Developer. I am currently pursuing my engineering course. 
 
 
-- 👯 I’m looking to collaborate on projects.
+- 👯 I’m looking forward to collaborate on projects.
 - 🌱 I’m currently doing internships.
 
 
